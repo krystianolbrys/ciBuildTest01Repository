@@ -1,0 +1,16 @@
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.exe
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.deps.json
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.runtimeconfig.json
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.runtimeconfig.dev.json
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.dll
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\ref\CISolution.dll
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\bin\Debug\net5.0\CISolution.pdb
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.csproj.AssemblyReference.cache
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.AssemblyInfoInputs.cache
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.AssemblyInfo.cs
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.csproj.CoreCompileInputs.cache
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.dll
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\ref\CISolution.dll
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.pdb
+C:\Users\XTR\Desktop\code\ciTestRepo\CISolution\obj\Debug\net5.0\CISolution.genruntimeconfig.cache
